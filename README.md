@@ -375,6 +375,7 @@ Model Context Protocol servers that give AI assistants like Claude, ChatGPT, and
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Comprehensive curated list of all MCP servers across every category.
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) - Official Cloudflare MCP server for managing Workers, KV, R2, and DNS from AI agents.
 - [Datadog MCP Server](https://github.com/datadog-labs/mcp-server) - MCP server for querying Datadog metrics, monitors, dashboards, and logs from AI agents.
+- [deed.page MCP Server](https://deed.page) - Remote MCP server and REST API that let AI agents publish HTML or a static folder to a permanent HTTPS URL, with versioned updates, rollback, and custom domains.
 - [Docker MCP Gateway](https://github.com/docker/mcp-gateway) - Docker-maintained MCP server for container management, image operations, and Docker Compose workflows.
 - [emisar](https://github.com/AndrewDryga/emisar) - Runs defined infrastructure actions for AI agents with policy and approval gates, host validation, and an audit trail.
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - Official GitHub MCP server for repos, issues, PRs, Actions, and code search from AI agents.
